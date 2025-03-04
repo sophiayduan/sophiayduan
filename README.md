@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning **Unity and C#**
 - 🥸 I like building, rock climbing and basketbal
 
-<p>My personal site is currently undergoing a massive update, you can visit the original one here: https://sophiaduan.dev/</p>
