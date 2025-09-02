@@ -1,1 +1,3 @@
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{- with .WakaTime }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" .Languages "💼 Projects:" .Projects 5 }}
+{{- end }}
