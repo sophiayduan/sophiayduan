@@ -5,3 +5,8 @@
 - 🥸 I like building, rock climbing and playing basketball
 
 
+
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+
