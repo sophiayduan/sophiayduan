@@ -1,4 +1,7 @@
-#### ⌨️ My latest projects
-{{range recentCreatedRepos "sophiayduan" 4}}
-- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
-{{- end}}
+####  👾 My Recent Contributions
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
