@@ -1,6 +1,9 @@
-### Hey i'm Sophia
+## hi i'm sophia 🧌
 
-you can check out all my projects here and on my (very kicad themed) [website](https://sophiaduan.dev/)
+i like to make hardware projects and build websites
+
+i'm currently learning - javascript and astro
+you can check out all my projects here and on my (very kicad themed) [`website`](https://sophiaduan.dev/)
 
 #### below are my recent contributions
 
