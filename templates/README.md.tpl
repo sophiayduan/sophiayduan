@@ -1,6 +1,9 @@
-{{range gists 10}}
-Name: {{.Name}}
-Description: {{.Description}}
+{{range recentPullRequests 10}}
+Title: {{.Title}}
 URL: {{.URL}}
-Created: {{humanize .CreatedAt}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
 {{end}}
