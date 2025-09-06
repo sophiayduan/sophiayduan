@@ -10,8 +10,8 @@ i'm currently learning - javascript and astro
 #### below are my recent contributions
 
 
+- [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"RP2040 based devboard to play custom games, made for daydream ottawa"_ **(today)**
 - [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(1 day ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(5 days ago)**
 - [`Endev-board`](https://github.com/sophiayduan/Endev-board) - _"3d printer monitor pcb"_ **(1 week ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`jumpstart-daydream`](https://github.com/sophiayduan/jumpstart-daydream) - _""_ **(1 week ago)**
