@@ -18,7 +18,7 @@ i'm currently learning - javascript and astro
 <a href="https://heatmap.shymike.dev?id=1&theme=catppuccin&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://heatmap.shymike.dev?id=1&theme=catppuccin_dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1&theme=catppuccin_light">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U083PK90X4G&theme=catppuccin_light">
     </picture>
 </a>
 
