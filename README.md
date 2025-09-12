@@ -15,3 +15,24 @@ i'm currently learning - javascript and astro
 - [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(6 days ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 week ago)**
 - [`Endev-board`](https://github.com/sophiayduan/Endev-board) - _"3d printer monitor pcb"_ **(1 week ago)**
+
+#### here is a heatmap of my hackatime stats 
+
+<a href="https://heatmap.shymike.dev?id=1&theme=catppuccin&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://heatmap.shymike.dev?id=1&theme=catppuccin_dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1&theme=catppuccin_light">
+    </picture>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+the awesome heat map is from [ImShyMike](https://github.com/ImShyMike/hackatime-heatmap?tab=readme-ov-file)
