@@ -10,11 +10,11 @@ i'm currently learning - javascript and astro
 #### below are my recent contributions
 
 
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(4 days ago)**
-- [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"RP2040 based devboard to play custom games, made for daydream ottawa"_ **(6 days ago)**
-- [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(6 days ago)**
+- [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(1 day ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(5 days ago)**
+- [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"RP2040 based devboard to play custom games, made for daydream ottawa"_ **(1 week ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 week ago)**
-- [`Endev-board`](https://github.com/sophiayduan/Endev-board) - _"3d printer monitor pcb"_ **(1 week ago)**
+- [`Endev-board`](https://github.com/sophiayduan/Endev-board) - _"3d printer monitor pcb"_ **(2 weeks ago)**
 
 #### here is a heatmap of my hackatime stats 
 
