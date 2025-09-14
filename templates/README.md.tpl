@@ -15,7 +15,7 @@ i'm currently learning - javascript and astro
 
 #### here is a heatmap of my hackatime stats 
 
-<a href="https://heatmap.shymike.dev?id=1&theme=catppuccin&standalone=true" title="Click to view detailed data for each day!">
+<a href="https://heatmap.shymike.dev?id=U083PK90X4G&theme=catppuccin&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://heatmap.shymike.dev?id=U083PK90X4G&theme=catppuccin_dark">
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U083PK90X4G&theme=catppuccin_light">
