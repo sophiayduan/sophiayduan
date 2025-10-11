@@ -10,10 +10,10 @@ i'm currently learning - javascript and astro
 #### below are my recent contributions
 
 
-- [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(2 days ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 days ago)**
+- [`builders-depot`](https://github.com/builders-depot/builders-depot) - _"coming somewhat soon"_ **(1 day ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(4 days ago)**
 - [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertial handheld RP2040 Sprig game console"_ **(2 weeks ago)**
-- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(2 weeks ago)**
+- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(3 weeks ago)**
 - [`daydream`](https://github.com/hackclub/daydream) - _"The world's largest high school game jam"_ **(3 weeks ago)**
 
 #### here is a heatmap of my hackatime stats 
