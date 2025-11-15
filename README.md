@@ -10,8 +10,8 @@ i'm currently learning - javascript and astro
 #### below are my recent contributions
 
 
-- [`depot17`](https://github.com/Depot17/depot17) - _"coming somewhat soon"_ **(5 days ago)**
-- [`Iris-Project`](https://github.com/peppapigX10/Iris-Project) - _""_ **(6 days ago)**
+- [`depot17`](https://github.com/Depot17/depot17) - _"coming somewhat soon"_ **(6 days ago)**
+- [`Iris-Project`](https://github.com/peppapigX10/Iris-Project) - _""_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertial handheld RP2040 Sprig game console"_ **(2 weeks ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 month ago)**
