@@ -10,10 +10,10 @@ i'm currently learning - javascript and astro
 #### below are my recent contributions
 
 
-- [`realityware-site`](https://github.com/Drummingcoder/realityware-site) - _"The site of the Realityware YSWS!"_ **(today)**
-- [`slappy`](https://github.com/penguinissus/slappy) - _""_ **(5 days ago)**
+- [`realityware-site`](https://github.com/Drummingcoder/realityware-site) - _"The site of the Realityware YSWS!"_ **(1 day ago)**
+- [`slappy`](https://github.com/penguinissus/slappy) - _""_ **(6 days ago)**
 - [`depot17`](https://github.com/Depot17/depot17) - _"coming somewhat soon"_ **(1 week ago)**
-- [`Iris-Project`](https://github.com/peppapigX10/Iris-Project) - _""_ **(1 week ago)**
+- [`Iris-Project`](https://github.com/peppapigX10/Iris-Project) - _""_ **(2 weeks ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 weeks ago)**
 
 #### here is a heatmap of my hackatime stats 
