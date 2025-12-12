@@ -12,8 +12,8 @@ i'm currently learning - javascript and astro
 
 - [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertial handheld RP2040 Sprig game console"_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 weeks ago)**
-- [`depot17`](https://github.com/Depot17/depot17) - _""_ **(2 weeks ago)**
-- [`realityware-site`](https://github.com/Drummingcoder/realityware-site) - _"The site of the Realityware YSWS!"_ **(2 weeks ago)**
+- [`depot17`](https://github.com/Depot17/depot17) - _""_ **(3 weeks ago)**
+- [`realityware-site`](https://github.com/Drummingcoder/realityware-site) - _"The site of the Realityware YSWS!"_ **(3 weeks ago)**
 - [`slappy`](https://github.com/penguinissus/slappy) - _"Made at Parthenon @ Hack Club, a fun game about slapping babies"_ **(3 weeks ago)**
 
 #### here is a heatmap of my hackatime stats 
