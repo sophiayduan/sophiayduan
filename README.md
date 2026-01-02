@@ -1,11 +1,11 @@
 ## hi i'm sophia 🧌
 
-i like to make hardware projects and build websites
+i like to build hardware projects and websites
 
 you can check out all my projects here and on my (very kicad themed) [`website`](https://sophiaduan.dev/)
 
 
-i'm currently learning - javascript and astro
+i'm currently learning javascript and react + tinkering with my ender 3
 
 #### below are my recent contributions
 
