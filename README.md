@@ -7,11 +7,11 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent contributions
 
 
+- [`jpeg`](https://github.com/sophiayduan/jpeg) - _"Ottawa's first all girls game jam"_ **(today)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(5 days ago)**
 - [`depot17`](https://github.com/Depot17/depot17) - _""_ **(3 weeks ago)**
 - [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertial handheld RP2040 Sprig game console"_ **(1 month ago)**
 - [`realityware`](https://github.com/Drummingcoder/realityware) - _"The site of the Realityware YSWS!"_ **(1 month ago)**
-- [`slappy`](https://github.com/penguinissus/slappy) - _"Made at Parthenon @ Hack Club, a fun game about slapping babies"_ **(1 month ago)**
 
 #### here is a heatmap of my hackatime stats 
 
