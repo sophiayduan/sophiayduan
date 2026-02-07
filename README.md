@@ -7,10 +7,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent contributions
 
 
-- [`tachometer`](https://github.com/sophiayduan/tachometer) - _""_ **(today)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 days ago)**
-- [`bldc-motor`](https://github.com/sophiayduan/bldc-motor) - _"a simple, mostly 3d printed bldc"_ **(2 days ago)**
-- [`bldc-controller`](https://github.com/sophiayduan/bldc-controller) - _""_ **(4 weeks ago)**
+- [`tachometer`](https://github.com/sophiayduan/tachometer) - _""_ **(1 day ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 days ago)**
+- [`bldc-motor`](https://github.com/sophiayduan/bldc-motor) - _"a simple, mostly 3d printed bldc"_ **(3 days ago)**
+- [`bldc-controller`](https://github.com/sophiayduan/bldc-controller) - _""_ **(1 month ago)**
 - [`jpeg`](https://github.com/sophiayduan/jpeg) - _"Ottawa's first all girls game jam"_ **(1 month ago)**
 
 #### here is a heatmap of my hackatime stats 
