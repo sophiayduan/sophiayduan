@@ -4,7 +4,7 @@ i like to build hardware projects and websites
 
 most of my projects are here, and a few on my (very kicad themed) [`website`](https://sophiaduan.dev/)
 
-#### below are my recent contributions
+#### below are my recent public contributions
 
 
 - [`tachometer`](https://github.com/sophiayduan/tachometer) - _""_ **(4 days ago)**
