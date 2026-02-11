@@ -7,7 +7,7 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`tachometer`](https://github.com/sophiayduan/tachometer) - _""_ **(today)**
+- [`tachometer`](https://github.com/sophiayduan/tachometer) - _"A ESP32 based tachometer with a web dashboard"_ **(today)**
 - [`bldc-motor`](https://github.com/sophiayduan/bldc-motor) - _"a simple, mostly 3d printed bldc"_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`bldc-controller`](https://github.com/sophiayduan/bldc-controller) - _""_ **(1 month ago)**
