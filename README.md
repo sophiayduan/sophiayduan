@@ -10,8 +10,8 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 - [`tachometer`](https://github.com/sophiayduan/tachometer) - _"A ESP32 based tachometer with a dashboard"_ **(today)**
 - [`dotfiles`](https://github.com/sophiayduan/dotfiles) - _"my fedora rice"_ **(2 days ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(5 days ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`bldc-motor`](https://github.com/sophiayduan/bldc-motor) - _"a simple, mostly 3d printed bldc"_ **(1 week ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 
 
 
