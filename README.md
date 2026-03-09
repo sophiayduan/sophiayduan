@@ -7,9 +7,9 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`otterneers`](https://github.com/sophiayduan/otterneers) - _"otters. need i say more?"_ **(2 days ago)**
-- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(2 days ago)**
-- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(5 days ago)**
+- [`otterneers`](https://github.com/sophiayduan/otterneers) - _"otters. need i say more?"_ **(3 days ago)**
+- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(3 days ago)**
+- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(6 days ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`tachometer`](https://github.com/sophiayduan/tachometer) - _"A ESP32 based tachometer with a dashboard"_ **(1 week ago)**
 
