@@ -7,11 +7,11 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(today)**
-- [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertical handheld RP2040 Sprig game console"_ **(1 day ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(5 days ago)**
-- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(6 days ago)**
-- [`otterneers`](https://github.com/sophiayduan/otterneers) - _"otters. need i say more?"_ **(6 days ago)**
+- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(1 day ago)**
+- [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertical handheld RP2040 Sprig game console"_ **(2 days ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(6 days ago)**
+- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(1 week ago)**
+- [`otterneers`](https://github.com/sophiayduan/otterneers) - _"otters. need i say more?"_ **(1 week ago)**
 
 
 
