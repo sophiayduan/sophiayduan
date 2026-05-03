@@ -7,10 +7,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(today)**
-- [`mushroot`](https://github.com/sophiayduan/mushroot) - _""_ **(1 day ago)**
-- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(1 day ago)**
-- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(5 days ago)**
+- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(1 day ago)**
+- [`mushroot`](https://github.com/sophiayduan/mushroot) - _""_ **(2 days ago)**
+- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(2 days ago)**
+- [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(6 days ago)**
 - [`daydream-sprig`](https://github.com/sophiayduan/daydream-sprig) - _"A vertical handheld RP2040 Sprig game console"_ **(3 weeks ago)**
 
 
