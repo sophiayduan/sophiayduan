@@ -8,10 +8,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 
 
 - [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(1 day ago)**
+- [`stasis`](https://github.com/sophiayduan/stasis) - _""_ **(1 day ago)**
 - [`mushroot`](https://github.com/sophiayduan/mushroot) - _""_ **(6 days ago)**
 - [`sprig-speedrun`](https://github.com/sophiayduan/sprig-speedrun) - _"A vertical handheld RP2040 Sprig game console"_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
-- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(2 weeks ago)**
 
 
 
