@@ -7,9 +7,9 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`stasis`](https://github.com/sophiayduan/stasis) - _""_ **(today)**
-- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(1 day ago)**
-- [`mushroot`](https://github.com/sophiayduan/mushroot) - _""_ **(6 days ago)**
+- [`stasis`](https://github.com/sophiayduan/stasis) - _""_ **(1 day ago)**
+- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(2 days ago)**
+- [`mushroot`](https://github.com/sophiayduan/mushroot) - _""_ **(1 week ago)**
 - [`sprig-speedrun`](https://github.com/sophiayduan/sprig-speedrun) - _"A vertical handheld RP2040 Sprig game console"_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 
