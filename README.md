@@ -7,10 +7,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(today)**
-- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(6 days ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
-- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(2 weeks ago)**
+- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(1 day ago)**
+- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(1 week ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 weeks ago)**
+- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(3 weeks ago)**
 - [`pnp`](https://github.com/sophiayduan/pnp) - _"smt pick and place "_ **(3 weeks ago)**
 
 
