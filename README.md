@@ -7,10 +7,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 days ago)**
-- [`card`](https://github.com/sophiayduan/card) - _"idk"_ **(5 days ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 days ago)**
+- [`card`](https://github.com/sophiayduan/card) - _"idk"_ **(6 days ago)**
 - [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(2 weeks ago)**
-- [`trace`](https://github.com/sophiayduan/trace) - _"circuit simulator app"_ **(3 weeks ago)**
+- [`trace`](https://github.com/sophiayduan/trace) - _"circuit simulator app"_ **(4 weeks ago)**
 - [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(4 weeks ago)**
 
 
