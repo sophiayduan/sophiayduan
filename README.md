@@ -7,7 +7,7 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`watch`](https://github.com/sophiayduan/watch) - _"six week diy digital watch sprint"_ **(today)**
+- [`watch`](https://github.com/sophiayduan/watch) - _"six week diy digital watch sprint"_ **(1 day ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
 - [`card`](https://github.com/sophiayduan/card) - _"idk"_ **(1 week ago)**
 - [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(3 weeks ago)**
