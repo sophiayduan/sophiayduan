@@ -1,4 +1,4 @@
-## hi i'm sophia 🧌
+## hi! i'm sophia 🧌
 
 i like to build hardware projects and websites
 
