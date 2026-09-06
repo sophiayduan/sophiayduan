@@ -1,4 +1,4 @@
-## hi i'm sophia 🧌
+## hi! i'm sophia 🧌
 
 i like to build hardware projects and websites
 
@@ -7,11 +7,11 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`watch`](https://github.com/sophiayduan/watch) - _"six week diy digital watch sprint"_ **(1 day ago)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(1 week ago)**
-- [`card`](https://github.com/sophiayduan/card) - _"idk"_ **(1 week ago)**
-- [`fallout`](https://github.com/hackclub/fallout) - _"hackydy hack hack"_ **(3 weeks ago)**
-- [`trace`](https://github.com/sophiayduan/trace) - _"circuit simulator app"_ **(1 month ago)**
+- [`card-ysws`](https://github.com/sophiayduan/card-ysws) - _""_ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(3 days ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 days ago)**
+- [`dongle`](https://github.com/sophiayduan/dongle) - _"A beginner PCB dongle tutorial!"_ **(4 days ago)**
+- [`gadget-market`](https://github.com/hackclub/gadget-market) - _""_ **(2 weeks ago)**
 
 
 
