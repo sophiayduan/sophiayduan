@@ -7,10 +7,10 @@ most of my projects are here, and a few on my (very kicad themed) [`website`](ht
 #### below are my recent public contributions
 
 
-- [`card-ysws`](https://github.com/sophiayduan/card-ysws) - _""_ **(today)**
-- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(3 days ago)**
-- [`dongle`](https://github.com/sophiayduan/dongle) - _"A beginner PCB dongle tutorial!"_ **(4 days ago)**
+- [`card-ysws`](https://github.com/sophiayduan/card-ysws) - _""_ **(1 day ago)**
+- [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(4 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _"🕹 Manage Hack Club's DNS through a GitHub repository"_ **(4 days ago)**
+- [`dongle`](https://github.com/sophiayduan/dongle) - _"A beginner PCB dongle tutorial!"_ **(5 days ago)**
 - [`gadget-market`](https://github.com/hackclub/gadget-market) - _""_ **(2 weeks ago)**
 
 
