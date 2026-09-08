@@ -1,8 +1,8 @@
-## hi! i'm sophia 🧌
+## hi, i'm sophia 🧌
 
-i like to build hardware projects and websites
+i'm working @hackclub on a gap year to help teens build cool, technical projects. i also like to build hardware projects and websites
 
-most of my projects are here, and a few on my (very kicad themed) [`website`](https://sophiaduan.dev/)
+most of my projects are here, and a few are on my (very kicad themed) [`website`](https://sophiaduan.dev/)
 
 #### below are my recent public contributions
 
