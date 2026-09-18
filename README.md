@@ -7,7 +7,7 @@ i also like to build hardware projects and websites! most of my projects are her
 #### below are my recent public contributions
 
 
-- [`fallout-badges`](https://github.com/sophiayduan/fallout-badges) - _""_ **(today)**
+- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(today)**
 - [`site`](https://github.com/hackclub/site) - _"🚩 The fourth iteration of the Hack Club site!"_ **(5 days ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 week ago)**
 - [`card-ysws`](https://github.com/sophiayduan/card-ysws) - _""_ **(1 week ago)**
