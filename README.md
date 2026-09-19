@@ -7,9 +7,9 @@ i also like to build hardware projects and websites! most of my projects are her
 #### below are my recent public contributions
 
 
-- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(today)**
-- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(today)**
-- [`site`](https://github.com/hackclub/site) - _"🚩 The fourth iteration of the Hack Club site!"_ **(5 days ago)**
+- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(1 day ago)**
+- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 day ago)**
+- [`site`](https://github.com/hackclub/site) - _"🚩 The fourth iteration of the Hack Club site!"_ **(6 days ago)**
 - [`card-ysws`](https://github.com/sophiayduan/card-ysws) - _""_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(2 weeks ago)**
 
