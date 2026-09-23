@@ -8,8 +8,8 @@ i also like to build hardware projects and websites! most of my projects are her
 
 
 - [`hack-card`](https://github.com/sophiayduan/hack-card) - _""_ **(1 day ago)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _""_ **(3 days ago)**
-- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(5 days ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _"hack the north 2026 finalist"_ **(3 days ago)**
+- [`badges`](https://github.com/sophiayduan/badges) - _"hackathon pcb badges"_ **(5 days ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(5 days ago)**
 - [`site`](https://github.com/hackclub/site) - _"🚩 The fourth iteration of the Hack Club site!"_ **(1 week ago)**
 
