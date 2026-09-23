@@ -7,10 +7,10 @@ i also like to build hardware projects and websites! most of my projects are her
 #### below are my recent public contributions
 
 
-- [`hack-card`](https://github.com/sophiayduan/hack-card) - _""_ **(today)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _""_ **(2 days ago)**
-- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(4 days ago)**
-- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(4 days ago)**
+- [`hack-card`](https://github.com/sophiayduan/hack-card) - _""_ **(1 day ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _""_ **(3 days ago)**
+- [`badges`](https://github.com/sophiayduan/badges) - _""_ **(5 days ago)**
+- [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(5 days ago)**
 - [`site`](https://github.com/hackclub/site) - _"🚩 The fourth iteration of the Hack Club site!"_ **(1 week ago)**
 
 
