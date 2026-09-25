@@ -7,7 +7,7 @@ i also like to build hardware projects and websites! most of my projects are her
 #### below are my recent public contributions
 
 
-- [`hack-card`](https://github.com/sophiayduan/hack-card) - _""_ **(3 days ago)**
+- [`hack-card`](https://github.com/sophiayduan/hack-card) - _""_ **(today)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _"hack the north 2026 finalist"_ **(5 days ago)**
 - [`badges`](https://github.com/sophiayduan/badges) - _"hackathon pcb badges"_ **(1 week ago)**
 - [`website`](https://github.com/sophiayduan/website) - _"my personal kicad inspired website"_ **(1 week ago)**
