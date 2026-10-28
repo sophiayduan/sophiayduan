@@ -8,7 +8,7 @@ i also like to build hardware projects and websites! most of my projects are her
 
 
 - [`stardance`](https://github.com/hackclub/stardance) - _"The largest high school STEM event of the summer!"_ **(today)**
-- [`fallen`](https://github.com/hackclub/fallen) - _"fall fall fallen"_ **(2 days ago)**
+- [`fallen`](https://github.com/hackclub/fallen) - _"fall fall fallen"_ **(today)**
 - [`toolhead`](https://github.com/sophiayduan/toolhead) - _""_ **(1 week ago)**
 - [`watch`](https://github.com/sophiayduan/watch) - _"diy digital watch sprint"_ **(1 week ago)**
 - [`storyboard`](https://github.com/hackclub/storyboard) - _"Make a visual novel a month depending on the theme!"_ **(3 weeks ago)**
